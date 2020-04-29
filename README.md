@@ -6,6 +6,6 @@ Execute as root
 #
 #
 #
-    nordvpn s cybersec on && nordvpn s killswitch on && nordvpn s autoconnect on United_States && nordvpn s notify off && nordvpn c United_States && nordvpn status
+    nordvpn s cybersec on && nordvpn s killswitch on && nordvpn s autoconnect on United_States && nordvpn c United_States && nordvpn status && nordvpn s notify off
     
     
