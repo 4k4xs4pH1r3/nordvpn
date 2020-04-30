@@ -15,7 +15,7 @@
 #    
 # nordvpn deactivate ninja mode
 
-    nordvpn s killswitch off && nordvpn d && nordvpn s cybersec off && nordvpn s autoconnect off && nordvpn status
+    nordvpn s killswitch off && nordvpn d && nordvpn s cybersec off && nordvpn s autoconnect off && nordvpn s notify off && nordvpn status
 #    
 # nordvpn close session    
 
