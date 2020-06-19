@@ -9,7 +9,7 @@
 #
 # nordvpn activate ninja mode
 
-    nordvpn login nordvpn c United_States && nordvpn s cybersec on && nordvpn s autoconnect on United_States && nordvpn s killswitch on && nordvpn s notify off && nordvpn settings && nordvpn status
+    nordvpn login && nordvpn c United_States && nordvpn s cybersec on && nordvpn s autoconnect on United_States && nordvpn s killswitch on && nordvpn s notify off && nordvpn settings && nordvpn status
 #    
 # nordvpn deactivate ninja mode
 
