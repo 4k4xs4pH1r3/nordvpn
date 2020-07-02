@@ -18,7 +18,7 @@
 #    
 # nordvpn deactivate ninja mode
 
-    apt update -y && apt full-upgrade -y && nordvpn s killswitch off && nordvpn d && nordvpn s cybersec off && nordvpn s autoconnect off && nordvpn s notify off && nordvpn settings && nordvpn status
+    nordvpn s killswitch off && nordvpn d && nordvpn s cybersec off && nordvpn s autoconnect off && nordvpn s notify off && nordvpn settings && nordvpn status
     
 #
 # nordvpn Close Session
