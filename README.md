@@ -14,7 +14,7 @@
 #
 # nordvpn activate ninja mode
 
-    apt update -y && apt full-upgrade -y && nordvpn c United_States && nordvpn s cybersec on && nordvpn s autoconnect on United_States && nordvpn s killswitch on && nordvpn s notify off && nordvpn settings && nordvpn status
+    nordvpn c United_States && nordvpn s cybersec on && nordvpn s autoconnect on United_States && nordvpn s killswitch on && nordvpn s notify off && nordvpn settings && nordvpn status
 #    
 # nordvpn deactivate ninja mode
 
