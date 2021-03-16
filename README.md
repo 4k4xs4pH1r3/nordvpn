@@ -3,7 +3,7 @@
 
 # nordvpn installation
 
-    sudo apt install neofetch gdebi -y && wget https://repo.nordvpn.com/deb/nordvpn/debian/pool/main/nordvpn-release_1.0.0_all.deb && sudo gdebi nordvpn-release_1.0.0_all.deb && sudo apt-get update -y && sudo apt-get install nordvpn && sudo apt-get autoclean && sudo apt install -f && sudo apt -f install && sudo apt autoremove -y && apt-get clean cache && sudo apt update && sudo apt-get autoclean && apt-get clean cache && sudo apt update && sudo apt update -y && sudo apt full-upgrade -y --allow-downgrades && sudo dpkg --configure -a && sudo grub-mkconfig && cd && neofetch
+    sh <(curl -sSf https://downloads.nordcdn.com/apps/linux/install.sh)
 #
 
 #
