@@ -14,7 +14,7 @@
 #
 # nordvpn sign in
 
-    nordvpn login
+    nordvpn login --nordaccount
 
 #
 # nordvpn activate ninja mode
